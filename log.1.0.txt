@@ -1,0 +1,26 @@
+мар. 16, 2024 7:14:42 PM Calculator.InputHandler inputComplexNumber
+INFO: Enter real part:
+мар. 16, 2024 7:14:59 PM Calculator.InputHandler inputComplexNumber
+INFO: Enter imaginary part:
+мар. 16, 2024 7:15:03 PM Calculator.InputHandler inputComplexNumber
+INFO: Enter real part:
+мар. 16, 2024 7:15:06 PM Calculator.InputHandler inputComplexNumber
+INFO: Enter imaginary part:
+мар. 16, 2024 7:15:07 PM Calculator.InputHandler inputOperation
+INFO: Enter operation (+, *, /):
+мар. 16, 2024 7:15:12 PM Calculator.InputHandler inputOperation
+INFO: operations.Operation selected: /
+мар. 16, 2024 7:26:05 PM Calculator.InputHandler inputComplexNumber
+INFO: Enter real part:
+мар. 16, 2024 7:26:10 PM Calculator.InputHandler inputComplexNumber
+INFO: Enter imaginary part:
+мар. 16, 2024 7:26:11 PM Calculator.InputHandler inputComplexNumber
+INFO: Enter real part:
+мар. 16, 2024 7:26:12 PM Calculator.InputHandler inputComplexNumber
+INFO: Enter imaginary part:
+мар. 16, 2024 7:26:13 PM Calculator.InputHandler inputOperation
+INFO: Enter operation (+, *, /):
+мар. 16, 2024 7:26:15 PM Calculator.InputHandler inputOperation
+INFO: operations.Operation selected: +
+мар. 16, 2024 7:31:44 PM Calculator.InputHandler inputComplexNumber
+INFO: Enter real part:
